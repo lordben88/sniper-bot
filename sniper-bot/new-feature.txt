@@ -1,0 +1,8 @@
+Ideas for the Sniper Bot:
+
+1. Set up RPC connection for Solana.
+2. Add a default buy amount of 0.015 SOL.
+3. Implement multi-take profit levels.
+4. Integrate insider call tracking for Photon and Pump.fun.
+5. Ensure maximum wallet security with private key encryption.
+
