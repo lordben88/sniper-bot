@@ -1,0 +1,7 @@
+{
+    "default_buy_amount": 0.015,
+    "rpc_url": "https://api.mainnet-beta.solana.com",
+    "take_profit_targets": [2, 3, 10, 250, 1000, 4000],
+    "stop_loss": -50
+}
+
