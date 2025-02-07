@@ -1,0 +1,11 @@
+.bash_history
+.bashrc
+.cache/
+.lesshst
+.local/
+.profile
+.ssh/
+.wget-hsts
+dkn-compute-launcher-linux-amd64.zip
+dkn-compute-node/
+
